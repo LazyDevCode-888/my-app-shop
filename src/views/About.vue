@@ -40,7 +40,6 @@
 </template>
 
 <script setup>
-// ไม่มี logic ซับซ้อนสำหรับหน้านี้
 </script>
 
 <style scoped>
