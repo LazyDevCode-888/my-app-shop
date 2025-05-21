@@ -2,7 +2,7 @@
   <div class="min-h-screen bg-gray-900 text-gray-100 px-6 py-10">
     <div class="max-w-6xl mx-auto">
 
-      <!-- 🎮 รายการไอดีที่ซื้อ -->
+      <!--  รายการไอดีที่ซื้อ -->
       <h2 class="text-2xl font-bold text-green-400 mb-4">🎮 รายการไอดีที่ซื้อ</h2>
       <div class="bg-gray-800 rounded-lg overflow-x-auto shadow mb-4">
         <table class="w-full text-sm md:text-base">
@@ -63,7 +63,7 @@
         </button>
       </div>
 
-      <!-- 💰 ประวัติการเติมเงิน -->
+      <!--  ประวัติการเติมเงิน -->
       <h2 class="text-2xl font-bold text-green-400 mb-4">💰 ประวัติการเติมเงิน</h2>
       <div class="bg-gray-800 rounded-lg overflow-x-auto shadow mb-4">
         <table class="w-full text-sm md:text-base">

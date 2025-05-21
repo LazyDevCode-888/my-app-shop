@@ -80,7 +80,6 @@
 </script>
 
 <style scoped>
-/* ให้รูปไอคอนเป็นสีขาวด้วย invert */
 img.invert {
   filter: invert(1);
 }
