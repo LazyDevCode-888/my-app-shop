@@ -1,0 +1,4 @@
+โปรเจคใช้ Vue 3 + Vite
+tailwindcss 
+daisyui
+notyf
